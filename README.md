@@ -1,3 +1,2 @@
-# Portfolio
-<h3>My First Portfolio </h3>
+# Portfolio 
 <p>Author:Shamika Diwan </p>
